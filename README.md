@@ -1,1 +1,1 @@
-# -Let-us-play-with-rank-list
+# Let-us-play-with-rank-list
